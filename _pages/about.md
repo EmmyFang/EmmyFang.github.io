@@ -19,8 +19,8 @@ and application on healthcare.
 Publications
 ======
 <a href="https://arxiv.org/abs/2208.03567" target="_blank">Proof-of-Learning is Currently More Broken Than You Think</a>.
-              <i><b>Congyu Fang</b>, Hengrui Jia, Anvith Thudi, Mohammad Yaghini, Christopher A. Choquette-Choo, Natalie Dullerud, Varun Chandrasekaran, Nicolas Papernot.</i>
-              Proceedings of the 8th IEEE European Symposium on Security and Privacy.
+              <i><b>Congyu Fang</b>`*`, Hengrui Jia`*`, Anvith Thudi, Mohammad Yaghini, Christopher A. Choquette-Choo, Natalie Dullerud, Varun Chandrasekaran, Nicolas Papernot.</i>
+              Proceedings of the 8th IEEE European Symposium on Security and Privacy. `*` Equal Contribution.
 
 <a href="https://arxiv.org/abs/2310.16678" target="_blank">Robust and Actively Secure Serverless Collaborative Learning</a>.
 <i>Olive Franzese, Adam Dziedzic, Christopher A. Choquette-Choo, Mark R. Thomas, Muhammad Ahmad Kaleem, Stephan Rabanser, <b>Congyu Fang</b>, Somesh Jha, Nicolas Papernot, Xiao Wang.</i> 
