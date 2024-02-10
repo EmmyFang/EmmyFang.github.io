@@ -27,7 +27,7 @@ Publications
 37th Conference on Neural Information Processing Systems. 2023.
 
 <a href="https://www.nature.com/articles/s41598-019-56719-x" target="_blank">Plasmonics of Diffused Silver Nanoparticles in Silver/Nitride Optical Thin Films</a>.
-<i>Yufeng Ye, Joel Y. Y. Loh, Andrew Flood, **Cong Y. Fang**, Joshua Chang, Ruizhi Zhao, Peter Brodersen, Nazir P. Kherani.</i> 
-Sci Rep 9, 20227 &#40;2019&#41;.
+<i>Yufeng Ye, Joel Y. Y. Loh, Andrew Flood, <b>Cong Y. Fang</b>, Joshua Chang, Ruizhi Zhao, Peter Brodersen, Nazir P. Kherani.</i> 
+Sci Rep 9, 20227. 2019.
 
 
