@@ -19,8 +19,8 @@ and application on healthcare.
 Publications
 ======
 <a href="https://arxiv.org/abs/2208.03567" target="_blank">Proof-of-Learning is Currently More Broken Than You Think</a>.
-              <i><b>Congyu Fang</b>, Hengrui Jia, Anvith Thudi, Mohammad Yaghini, Christopher A. Choquette-Choo, Natalie Dullerud, Varun Chandrasekaran, Nicolas Papernot.</i>
-                2023 IEEE 8th European Symposium on Security and Privacy (EuroS&P). 2023.
+              <i>Congyu Fang, Hengrui Jia, Anvith Thudi, Mohammad Yaghini, Christopher A. Choquette-Choo, Natalie Dullerud, Varun Chandrasekaran, Nicolas Papernot.</i>
+              Proceedings of the 8th IEEE European Symposium on Security and Privacy.
 
 
 
