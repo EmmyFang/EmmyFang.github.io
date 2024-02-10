@@ -19,14 +19,6 @@ and application on healthcare.
 Publications
 ======
 <a href="https://arxiv.org/abs/2208.03567" target="_blank">Proof-of-Learning is Currently More Broken Than You Think</a>.
-              <i><b>Congyu Fang*</b>, Hengrui Jia*, Anvith Thudi, Mohammad Yaghini, Christopher A. Choquette-Choo, Natalie Dullerud, Varun Chandrasekaran, Nicolas Papernot.</i>
-                2023 IEEE 8th European Symposium on Security and Privacy (EuroS&P). *Equal Contribution.
-
-
-
-[comment]: <> (<a href="https://www.nature.com/articles/s41598-019-56719-x" target="_blank">Plasmonics of Diffused Silver Nanoparticles in Silver/Nitride Optical Thin Films</a>.)
-
-[comment]: <> (              <i>Yufeng Ye, Joel Y. Y. Loh, Andrew Flood, **Cong Y. Fang**, Joshua Chang, Ruizhi Zhao, Peter Brodersen & Nazir P. Kherani.</i>)
-
-[comment]: <> (                Sci Rep 9, 20227 &#40;2019&#41;.)
+              <i><b>Congyu Fang</b>, Hengrui Jia, Anvith Thudi, Mohammad Yaghini, Christopher A. Choquette-Choo, Natalie Dullerud, Varun Chandrasekaran, Nicolas Papernot.</i>
+              Proceedings of the 8th IEEE European Symposium on Security and Privacy.
 
