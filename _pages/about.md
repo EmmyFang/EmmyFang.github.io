@@ -37,3 +37,25 @@ Sci Rep 9, 20227. 2019.
 
 Awards
 ======
+**DiDi Graduate Student Award In Computer Science**, DiDi Chuxing Technology Co. and University of Toronto (2023-2024)
+
+**Ontario Graduate Scholarship**, Province of Ontario and University of Toronto (2022-2024)
+
+**Queen Elizabeth II Graduate Scholarship in Science and Technology**, Province of Ontario and University of Toronto (2021-2022)
+
+**DeepMind Fellowship**, Google, DeepMind (2021-2022)
+
+**Dean's List**, University of Toronto (2016-2021)
+
+**University of Toronto In-Course Scholarships**, University of Toronto (2019)
+
+**Summer Research International Experience Award**, University of Toronto (2018)
+
+**Albert And Rose Jong Entrance Scholarship**, **Wallberg Admission Scholarships**, **University of Toronto Scholar**, University of Toronto (2016)
+
+
+Invited Talks
+======
+Privacy-preserving distributed machine learning, Ericsson (2023)
+
+Poster: Finding private bugs–Debugging Implementations of DP-SGD, Intel (2023)
