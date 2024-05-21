@@ -14,16 +14,17 @@ the [Vector Insititute](https://vectorinstitute.ai/) and
 [Prof. Nicolas Papernot](https://www.papernot.fr/). 
 
 My research focuses on the intersection of computer security, machine learning, 
-and application on healthcare. 
+and application on healthcare. In particular, I have been working on privacy-preserving and collaborative ML that aims to
+enable researchers to benefit from more diverse datasets and build better models while preserving the confidentiality and privacy of the datasets. 
+I earned my MSc. in Computer Science at the University of Toronto, working with Prof. Bo Wang and Nicolas Papernot. 
+I was also supported by a DeepMind Fellowship. 
 
 Publications
 ======
 
-[//]: # (<a href="https://emmyfang.github.io/" target="_blank">Privacy-Preserving Federated Learning for Coverage Prediction</a>.)
-
-[//]: # (<i><b>Congyu Fang</b>, Akram Bin Sediq, Hamza Sokun, Israfil Bahceci, Ahmed Mohamed Ali Ibrahim, Nicolas Papernot.</i> )
-
-[//]: # (IEEE 35th International Symposium on Personal, Indoor and Mobile Radio Communications &#40;PIMRC&#41;. 2024.)
+<a href="https://emmyfang.github.io/" target="_blank">Privacy-Preserving Federated Learning for Coverage Prediction</a>.
+<i><b>Congyu Fang</b>, Akram Bin Sediq, Hamza Sokun, Israfil Bahceci, Ahmed Mohamed Ali Ibrahim, Nicolas Papernot.</i>
+IEEE 35th International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC). 2024.
 
 <a href="https://www.sciencedirect.com/science/article/pii/S2352396424000410" target="_blank">Decentralised, collaborative, and privacy-preserving machine learning for multi-hospital data</a>.
 <i><b>Congyu Fang</b>, Adam Dziedzic, Lin Zhang, Laura Oliva, Amol Verma, Fahad Razak, Nicolas Papernot`*`, Bo Wang`*`.</i> *Equal contribution.
@@ -41,6 +42,7 @@ Lancet eBioMedicine, vol. 101, p. 105006, 2024. [^1]
 <i>Yufeng Ye, Joel Y. Y. Loh, Andrew Flood, <b>Cong Y. Fang</b>, Joshua Chang, Ruizhi Zhao, Peter Brodersen, Nazir P. Kherani.</i> 
 Sci Rep 9, 20227. 2019.
 
+[^1]: Typo fixed in <a href="https://arxiv.org/abs/2402.00205" target="_blank">this version</a>
 
 Awards
 ======
@@ -68,4 +70,3 @@ Privacy-preserving distributed machine learning, Ericsson (2023)
 Poster: Finding private bugs–Debugging Implementations of DP-SGD, Intel (2023)
 
 
-[^1]: Typo fixed in <a href="https://arxiv.org/abs/2402.00205" target="_blank">this version</a>
