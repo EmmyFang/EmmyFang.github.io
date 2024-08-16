@@ -22,13 +22,13 @@ I was also supported by a DeepMind Fellowship.
 Publications
 ======
 
-<a href="https://emmyfang.github.io/" target="_blank">Privacy-Preserving Federated Learning for Coverage Prediction</a>.
-<i><b>Congyu Fang</b>, Akram Bin Sediq, Hamza Sokun, Israfil Bahceci, Ahmed Mohamed Ali Ibrahim, Nicolas Papernot.</i>
-IEEE 35th International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC). 2024.
-
 <a href="https://www.sciencedirect.com/science/article/pii/S2352396424000410" target="_blank">Decentralised, collaborative, and privacy-preserving machine learning for multi-hospital data</a>.
 <i><b>Congyu Fang</b>, Adam Dziedzic, Lin Zhang, Laura Oliva, Amol Verma, Fahad Razak, Nicolas Papernot`*`, Bo Wang`*`.</i> *Equal contribution.
 Lancet eBioMedicine, vol. 101, p. 105006, 2024. [^1]
+
+<a href="https://www.researchgate.net/publication/381292167_Privacy-Preserving_Federated_Learning_for_Coverage_Prediction" target="_blank">Privacy-Preserving Federated Learning for Coverage Prediction</a>.
+<i><b>Congyu Fang</b>, Akram Bin Sediq, Hamza Sokun, Israfil Bahceci, Ahmed Mohamed Ali Ibrahim, Nicolas Papernot.</i>
+IEEE 35th International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC). 2024.
 
 <a href="https://arxiv.org/abs/2208.03567" target="_blank">Proof-of-Learning is Currently More Broken Than You Think</a>.
               <i><b>Congyu Fang</b>`*`, Hengrui Jia`*`, Anvith Thudi, Mohammad Yaghini, Christopher A. Choquette-Choo, Natalie Dullerud, Varun Chandrasekaran, Nicolas Papernot.</i> *Equal Contribution.
