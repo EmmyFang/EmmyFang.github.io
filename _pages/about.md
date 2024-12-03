@@ -65,8 +65,10 @@ Awards
 
 Invited Talks
 ======
+Decentralised, Collaborative, and Privacy-preserving Machine Learning for Multi-Hospital Data, Vector Institute (2024)
+
 Privacy-preserving distributed machine learning, Ericsson (2023)
 
-Poster: Finding private bugs–Debugging Implementations of DP-SGD, Intel (2023)
+Finding private bugs–Debugging Implementations of DP-SGD, Intel (2023)
 
 
