@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I'm a PhD student at [WangLab](https://wanglab.ai/) and [CleverHans Lab](https://cleverhans-lab.github.io/) at 
-the [Vector Insititute](https://vectorinstitute.ai/) and 
+the [Vector Institute](https://vectorinstitute.ai/) and 
 [University of Toronto](https://www.utoronto.ca/), advised by [Prof. Bo Wang](https://vectorinstitute.ai/team/bo-wang/) and 
 [Prof. Nicolas Papernot](https://www.papernot.fr/). 
 
@@ -21,6 +21,16 @@ I was also supported by a DeepMind Fellowship.
 
 Publications
 ======
+
+<a href="https://eprint.iacr.org/2025/1025" target="_blank">Secure Noise Sampling for Differentially Private Collaborative Learning</a>.
+<i>Olive Franzese, <b>Congyu Fang</b>, Radhika, Xiao Wang, Somesh Jha, Nicolas Papernot, Adam Dziedzic. </i>
+Proceedings of the 32nd ACM Conference on Computer and Communications Security. 2025. 
+
+
+<a href="https://www.arxiv.org/abs/2506.21535" target="_blank">Exploring the Design Space of 3D MLLMs for CT Report Generation</a>.
+<i>Mohammed Baharoon, Jun Ma, <b>Congyu Fang</b>,
+Augustin Toma, Bo Wang. </i> 28th International Conference on Medical Image Computing and Computer Assisted
+Intervention (MICCAI). 2025.
 
 <a href="https://www.sciencedirect.com/science/article/pii/S2352396424000410" target="_blank">Decentralised, collaborative, and privacy-preserving machine learning for multi-hospital data</a>.
 <i><b>Congyu Fang</b>, Adam Dziedzic, Lin Zhang, Laura Oliva, Amol Verma, Fahad Razak, Nicolas Papernot`*`, Bo Wang`*`.</i> *Equal contribution.
@@ -46,9 +56,13 @@ Sci Rep 9, 20227. 2019.
 
 Awards
 ======
+**Canada Graduate Scholarship - Doctoral (NSERC Postgraduate Scholarships – Doctoral)**, Government of Canada (2025-2028)
+
+**Schwartz Reisman Institute Graduate Fellowship**, Schwartz Reisman Institute, University of Toronto (2025-2026)
+
 **DiDi Graduate Student Award In Computer Science**, DiDi Chuxing Technology Co. and University of Toronto (2023-2024)
 
-**Ontario Graduate Scholarship**, Province of Ontario and University of Toronto (2022-2024)
+**Ontario Graduate Scholarship**, Province of Ontario and University of Toronto (2022-2025)
 
 **Queen Elizabeth II Graduate Scholarship in Science and Technology**, Province of Ontario and University of Toronto (2021-2022)
 
@@ -70,5 +84,11 @@ Decentralised, Collaborative, and Privacy-preserving Machine Learning for Multi-
 Privacy-preserving distributed machine learning, Ericsson (2023)
 
 Finding private bugs–Debugging Implementations of DP-SGD, Intel (2023)
+
+
+Teaching 
+======
+CSC343 Introduction to Database, Teaching Assistant. University of Toronto (2023-2024)
+CSC413/2516 Neural Networks and Deep Learning, Teaching Assistant. University of Toronto (2022)
 
 
