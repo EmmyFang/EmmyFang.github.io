@@ -79,6 +79,8 @@ Awards
 
 Invited Talks
 ======
+Secure Noise Sampling for Differentially Private Collaborative Learning. J.P. Morgan AlgoCRYPT CoE. (2025)
+
 Decentralised, Collaborative, and Privacy-preserving Machine Learning for Multi-Hospital Data, Vector Institute (2024)
 
 Privacy-preserving distributed machine learning, Ericsson (2023)
@@ -88,7 +90,8 @@ Finding private bugs–Debugging Implementations of DP-SGD, Intel (2023)
 
 Teaching 
 ======
-CSC343 Introduction to Database, Teaching Assistant. University of Toronto (2023-2024)
+CSC343 Introduction to Database, Teaching Assistant. University of Toronto (2023-2025)
+
 CSC413/2516 Neural Networks and Deep Learning, Teaching Assistant. University of Toronto (2022)
 
 
